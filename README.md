@@ -1,8 +1,8 @@
 # 👋 Hi, I'm heegene!
 
-🚀 Senior Solutions Engineer @ GitHub
-🇰🇷 Supporting Enterprise customers in Korea
-🌱 Currently the only GitHub employee based in Korea (one day I hope to build a team here so I won't be alone anymore! 🙂)
+🚀 Senior Solutions Engineer @ GitHub <br>
+🇰🇷 Supporting Enterprise customers in Korea <br>
+🌱 Currently the only GitHub employee based in Korea <br> (one day I hope to build a team here so I won't be alone anymore! 🙂)
 
 ---
 
